@@ -1,10 +1,12 @@
-# 👋 Hello World! I'm [Your Name]
+# 👋 Hello World! I'm [CHVKRSUBASH]
 
-**Data Science Enthusiast | Cloud Practitioner | UI/UX Learner | Growth Mindset Advocate**
+**Data Science Enthusiast | Python Developer | UI/UX Learner  **
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/v-k-r-subhash-ch-68533a288/)
+[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/chvkrsubhash)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/chvkrsubhash/)
+[![Google Developers](https://img.shields.io/badge/g.dev-Follow-4285F4?style=flat&logo=google)](https://g.dev/chvkrsubhash)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Follow-4285F4?style=flat&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/32d2cf65-a3f9-430d-bd11-350ac4a41674I)
 [![Pronouns](https://img.shields.io/badge/Pronouns-He/Him-FF69B4)](https://pronoun.is/he)
 
 ✨ **Fueled by curiosity** | 🎯 **Building tomorrow's solutions** | 🌍 **Global citizen**
@@ -31,7 +33,7 @@
 - 🤖 **Exploring** AI & ML with TensorFlow and PyTorch  
 - ☁ **Enhancing** my cloud skills with hands-on labs in AWS, Azure, and GCP  
 - 🎓 **Preparing** for cloud certifications  
-- 📚 **Reading** "Atomic Habits" & "Cloud Computing Concepts"  
+- 📚 **Reading** "Atomic Habits" & "Clean Code"  
 
 ---
 
@@ -39,7 +41,6 @@
 
 - ✅ **Microsoft Certified: Azure AI Fundamentals (AI-900)**  
 - ✅ **AWS Certified Cloud Practitioner (in progress)**  
-- ✅ **Google Associate Cloud Engineer (coming soon)**  
 
 ---
 
@@ -55,11 +56,11 @@ I'm excited about projects involving:
 
 ### 📬 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail)](mailto:youremail@domain.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF4088?style=flat)](https://yourportfolio.site)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail)](chvkrsubhash@outlook.con)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF4088?style=flat)](https://chvkrsubhash.netlify.app/)  
 
 ---
 
-**⚡ Fun Fact:** I once automated my morning coffee routine using Python + Raspberry Pi! ☕  
+**⚡ Fun Fact:** I once automated my morning coffee routine using Python  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chvkrsubhash&show_icons=true&theme=radical)](https://github.com/chvkrsubhash)
