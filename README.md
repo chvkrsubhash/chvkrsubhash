@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm [CHVKRSUBASH]
 
-**Data Science Enthusiast | Python Developer | UI/UX Learner  **
+**Data Science Enthusiast | Python Developer | UI/UX Learner **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/v-k-r-subhash-ch-68533a288/)
 [![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/chvkrsubhash)
