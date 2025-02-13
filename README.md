@@ -65,9 +65,6 @@ I'm excited about projects involving:
 <img width="420px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chvkrsubhash&theme=react" />
 </div>
 
-<div align="center">
-  <img src="./images/rainbow.png" width="120%"/>
-</div>
 
 <br/>
 <p align="center">
@@ -76,4 +73,3 @@ I'm excited about projects involving:
 ###
 **⚡ Fun Fact:** I once automated my morning coffee routine using Python  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chvkrsubhash&show_icons=true&theme=radical)](https://github.com/chvkrsubhash)
