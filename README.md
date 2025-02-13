@@ -70,6 +70,6 @@ I'm excited about projects involving:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chvkrsubhash&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
-###
+
 **⚡ Fun Fact:** I once automated my morning coffee routine using Python  
 
