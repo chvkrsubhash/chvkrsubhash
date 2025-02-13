@@ -60,6 +60,9 @@ I'm excited about projects involving:
 [![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF4088?style=flat)](https://chvkrsubhash.netlify.app/)  
 
 ---
+<img align="right" src="https://komarev.com/ghpvc/?username=ShwetKhatri20014&style=flat-square&color=1f6feb">
+<hr>
+
 <div align="center">
 <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=chvkrsubhash&show_icons=true&count_private=true&theme=react" />
 <img width="420px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chvkrsubhash&theme=react" />
