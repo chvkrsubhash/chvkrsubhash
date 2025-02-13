@@ -59,9 +59,8 @@ I'm excited about projects involving:
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail)](chvkrsubhash@outlook.con)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF4088?style=flat)](https://chvkrsubhash.netlify.app/)  
 
----
 <img align="right" src="https://komarev.com/ghpvc/?username=ShwetKhatri20014&style=flat-square&color=1f6feb">
-<hr>
+---
 
 <div align="center">
 <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=chvkrsubhash&show_icons=true&count_private=true&theme=react" />
