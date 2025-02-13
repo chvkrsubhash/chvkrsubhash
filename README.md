@@ -60,6 +60,11 @@ I'm excited about projects involving:
 [![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF4088?style=flat)](https://chvkrsubhash.netlify.app/)  
 
 ---
+<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chvkrsubhash&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+---
 
 **⚡ Fun Fact:** I once automated my morning coffee routine using Python  
 
