@@ -60,6 +60,15 @@ I'm excited about projects involving:
 [![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF4088?style=flat)](https://chvkrsubhash.netlify.app/)  
 
 ---
+<div align="center">
+<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=chvkrsubhash&show_icons=true&count_private=true&theme=react" />
+<img width="420px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chvkrsubhash&theme=react" />
+</div>
+
+<div align="center">
+  <img src="./images/rainbow.png" width="120%"/>
+</div>
+
 <br/>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chvkrsubhash&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
