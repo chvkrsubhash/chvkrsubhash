@@ -1,69 +1,78 @@
-🔥 [CHVKRSUBASH] - Data Science Wizard & Code Alchemist
-Python Sorcerer | Cloud Architect | UI/UX Visionary
-[![LeetCode](https://img.shields.io/badge/LeetCode-F"If you're seeing this, it looks like your README.md has been updated with a vibrant, cyberpunk-inspired theme, featuring bold animations and a futuristic vibe. Here's the revamped version:
+# 👋 Hello World! I'm [CHVKRSUBASH]
+
+**Data Science Enthusiast | Python Developer | UI/UX Learner **
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/v-k-r-subhash-ch-68533a288/)
+[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/chvkrsubhash)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/chvkrsubhash/)
+[![Google Developers](https://img.shields.io/badge/g.dev-Follow-4285F4?style=flat&logo=google)](https://g.dev/chvkrsubhash)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Follow-4285F4?style=flat&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/32d2cf65-a3f9-430d-bd11-350ac4a41674I)
+[![Pronouns](https://img.shields.io/badge/Pronouns-He/Him-FF69B4)](https://pronoun.is/he)
+
+✨ **Fueled by curiosity** | 🎯 **Building tomorrow's solutions** | 🌍 **Global citizen**
+
+---
+
+### 🛠️ Tech Toolkit
+
+**Data Science**  
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python)  
+![R](https://img.shields.io/badge/R-Intermediate-276DC3?logo=r)  
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1)  
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?logo=tableau)  
+
+**Cloud Computing**  
+![AWS](https://img.shields.io/badge/AWS-EC2%2C%20S3%2C%20Lambda-FF9900?logo=amazon-aws)  
+![Azure](https://img.shields.io/badge/Azure-VM%2C%20Functions-0078D4?logo=microsoft-azure)  
+![GCP](https://img.shields.io/badge/GCP-Compute%20Engine%2C%20Cloud%20Storage-4285F4?logo=google-cloud)  
+
+---
+
+### 🌱 Currently Growing
+
+- 🤖 **Exploring** AI & ML with TensorFlow and PyTorch  
+- ☁ **Enhancing** my cloud skills with hands-on labs in AWS, Azure, and GCP  
+- 🎓 **Preparing** for cloud certifications  
+- 📚 **Reading** "Atomic Habits" & "Clean Code"  
+
+---
+
+### 📜 Certifications
+
+- ✅ **Microsoft Certified: Azure AI Fundamentals (AI-900)**  
+- ✅ **AWS Certified Cloud Practitioner (in progress)**  
+
+---
+
+### 🤝 Let's Collaborate!
+
+I'm excited about projects involving:
+- **Data-Driven Solutions** (ML models, analytics dashboards)  
+- **Cloud Deployments** (Serverless architectures, containerization)  
+- **Visualization & Insights** (Dashboards & interactive reports)  
+- **UI/UX & Data Storytelling** (Communicating insights effectively)  
+
+---
+
+### 📬 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail)](chvkrsubhash@outlook.con)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF4088?style=flat)](https://chvkrsubhash.netlify.app/)  
+---
+<hr>
+<img align="right" src="https://komarev.com/ghpvc/?username=ShwetKhatri20014&style=flat-square&color=1f6feb">
 
 
-🌌 [CHVKRSUBASH] - Data Science Overlord & Code Alchemist
-Python Sorcerer | Cloud Architect | UI/UX Visionary
-
-  
-
-
-
-🚀 Fueled by Code | ⚡️ Crafting Digital Realms | 🌍 Global Innovator
-
-🛠️ Tech Arsenal
-Data Science Mastery  
-Cloud Domination  
-
-  
+<div align="center">
+<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=chvkrsubhash&show_icons=true&count_private=true&theme=react" />
+<img width="420px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chvkrsubhash&theme=react" />
+</div>
 
 
+<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chvkrsubhash&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
-🌟 Currently Leveling Up
+**⚡ Fun Fact:** I once automated my morning coffee routine using Python  
 
-🤖 Conquering AI & ML with TensorFlow, PyTorch, and Scikit-learn  
-☁ Mastering cloud architectures with AWS, Azure, and GCP  
-🎯 Training for elite cloud certifications  
-📚 Devouring "Atomic Habits" & "Clean Code" for ultimate self-optimization
-
-
-🏆 Achievements Unlocked
-
-✅ Microsoft Certified: Azure AI Fundamentals (AI-900)  
-✅ AWS Certified Cloud Practitioner (Grinding for Completion)  
-✅ Google Cloud Digital Leader (In Progress)
-
-
-  
-
-
-
-🤝 Join My Quest!
-I'm hyped for projects involving:  
-
-Data-Driven Epics (Machine learning models, predictive analytics)  
-Cloud Conquests (Serverless apps, Kubernetes clusters)  
-Visualization Sagas (Interactive dashboards, data storytelling)  
-UI/UX Adventures (Sleek designs, immersive experiences)
-
-
-📡 Connect to My Network
-  
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-  
-
-
-⚡️ Epic Fact: I once scripted a Python bot to optimize my gaming loot drops while designing a neural network!
