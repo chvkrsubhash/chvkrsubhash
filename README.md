@@ -1,78 +1,125 @@
-# 👋 Hello World! I'm [CHVKRSUBASH]
+🔒 Welcome to the Cyber Vault of CHVKRSUBASH 🔒
 
-**Data Science Enthusiast | Python Developer | UI/UX Learner **
+[CYBER LINK ACTIVATED] [SECURITY PROTOCOLS ONLINE] [HACKER MODE: ON]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/v-k-r-subhash-ch-68533a288/)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/chvkrsubhash)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/chvkrsubhash/)
-[![Google Developers](https://img.shields.io/badge/g.dev-Follow-4285F4?style=flat&logo=google)](https://g.dev/chvkrsubhash)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Follow-4285F4?style=flat&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/32d2cf65-a3f9-430d-bd11-350ac4a41674I)
-[![Pronouns](https://img.shields.io/badge/Pronouns-He/Him-FF69B4)](https://pronoun.is/he)
 
-✨ **Fueled by curiosity** | 🎯 **Building tomorrow's solutions** | 🌍 **Global citizen**
 
----
+⚡ CYBER SECURITY SENTINEL ⚡Securing the digital realm from VELLORE, TAMIL NADU, INDIA 🇮🇳
 
-### 🛠️ Tech Toolkit
 
-**Data Science**  
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python)  
-![R](https://img.shields.io/badge/R-Intermediate-276DC3?logo=r)  
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1)  
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?logo=tableau)  
+🔍 SCANNING CYBER PROFILE...
+class CyberGuardian:
+    def __init__(self):
+        self.name = "CHVKRSUBASH"
+        self.occupation = "Data Science Enthusiast | Python Developer | Cyber Security Analyst"
+        self.location = "Vellore, Tamil Nadu, India"
+        self.interests = ["Cyber Security", "Data Science", "AI/ML", "UI/UX"]
+        self.languages = ["Python", "R", "SQL", "Tamil", "English"]
+        self.superpower = "Detecting vulnerabilities with a single glance"
+        self.weakness = "Overanalyzing log files at midnight"
+       
+    def current_status(self):
+        return "🔒 Securing the future, one packet at a time!"
 
-**Cloud Computing**  
-![AWS](https://img.shields.io/badge/AWS-EC2%2C%20S3%2C%20Lambda-FF9900?logo=amazon-aws)  
-![Azure](https://img.shields.io/badge/Azure-VM%2C%20Functions-0078D4?logo=microsoft-azure)  
-![GCP](https://img.shields.io/badge/GCP-Compute%20Engine%2C%20Cloud%20Storage-4285F4?logo=google-cloud)  
+📊 REAL-TIME SYSTEM STATS
 
----
 
-### 🌱 Currently Growing
 
-- 🤖 **Exploring** AI & ML with TensorFlow and PyTorch  
-- ☁ **Enhancing** my cloud skills with hands-on labs in AWS, Azure, and GCP  
-- 🎓 **Preparing** for cloud certifications  
-- 📚 **Reading** "Atomic Habits" & "Clean Code"  
 
----
 
-### 📜 Certifications
+🏆 ACHIEVEMENT UNLOCKED
 
-- ✅ **Microsoft Certified: Azure AI Fundamentals (AI-900)**  
-- ✅ **AWS Certified Cloud Practitioner (in progress)**  
 
----
 
-### 🤝 Let's Collaborate!
+
+
+📈 CONTRIBUTION GRAPH - CYBER ACTIVITY
+
+
+
+
+
+💻 CYBER SECURITY TECH STACK
+
+
+Programming Languages
+
+Cyber Security Tools
+
+Cloud & DevOps
+
+Data Science & Visualization
+
+
+
+🎮 CURRENT ACHIEVEMENTS
+
+```
+🏆 Cyber Sentinel - Master of network security
+🔥 Data Defender - Skilled in securing data pipelines
+🌍 Multilingual Guardian - Fluent in Tamil and English
+☕ Code Encryptor - 99.9% efficiency in coffee-to-secure-code conversion
+🚀 Threat Hunter - Neutralizing vulnerabilities before they strike
+🎯 Intrusion Preventer - Locking down systems one firewall at a time
+```
+
+
+📜 CERTIFICATIONS
+
+```
+✅ Microsoft Certified: Azure AI Fundamentals (AI-900)
+✅ AWS Certified Cloud Practitioner (In Progress)
+✅ TryHackMe: Junior Penetration Tester (In Progress)
+```
+
+
+📊 CODING ACTIVITY
+
+
+
+
+🌐 CYBER NETWORK CONNECTIONS
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-k-r-subhash-ch-68533a288/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chvkrsubhash)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/chvkrsubhash/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=netlify&logoColor=white)](https://chvkrsubhash.netlify.app/)
+
+
+🔮 CYBER SECURITY VISION
+
+```
+🌟 MISSION STATUS: ACTIVE
+├── 🔒 Building secure AI-driven systems
+├── 🌍 Contributing to open-source security tools
+├── 📚 Sharing cyber security knowledge through tutorials
+├── 🎯 Neutralizing real-world cyber threats
+└── ☕ Perfecting the coffee-to-secure-code encryption ratio
+```
+
+
+🤝 LET'S SECURE THE FUTURE
 
 I'm excited about projects involving:
-- **Data-Driven Solutions** (ML models, analytics dashboards)  
-- **Cloud Deployments** (Serverless architectures, containerization)  
-- **Visualization & Insights** (Dashboards & interactive reports)  
-- **UI/UX & Data Storytelling** (Communicating insights effectively)  
-
----
-
-### 📬 Let's Connect!
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail)](chvkrsubhash@outlook.con)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF4088?style=flat)](https://chvkrsubhash.netlify.app/)  
----
-<hr>
-<img align="right" src="https://komarev.com/ghpvc/?username=ShwetKhatri20014&style=flat-square&color=1f6feb">
+- **Threat Detection** (Intrusion detection systems, log analysis)
+- **Secure Data Solutions** (Encrypted ML models, secure pipelines)
+- **Cloud Security** (Serverless security, container hardening)
+- **Penetration Testing** (Vulnerability assessments, ethical hacking)
 
 
-<div align="center">
-<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=chvkrsubhash&show_icons=true&count_private=true&theme=react" />
-<img width="420px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chvkrsubhash&theme=react" />
-</div>
+📡 TRANSMISSION ENDING
+
+```
+[CYBER LINK STABLE] ██████████ 100%
+[COFFEE LEVELS] ██████████ 100%
+[SECURITY ENTHUSIASM] ██████████ 100%
+[SAVING PROGRESS...]
+[THANK YOU FOR VISITING] 🔒
+```
+**⭐ Star my repos if you find them useful!**
+**🔗 Connect with me across the digital fortress!**
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 
-<br/>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chvkrsubhash&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
 
-**⚡ Fun Fact:** I once automated my morning coffee routine using Python  
-
+Thank you for exploring my cyber vault! 🥰
